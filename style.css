@@ -1,0 +1,47 @@
+body {
+    background-color:black;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 100%;
+}
+#main {
+width: 600px;
+background-color: #111;
+border-radius: 5px;
+height: 680px;
+font-family: "Ubuntu";
+padding : 10px;
+margin-bottom: 20px;
+}
+
+#stats {
+width: 600px;
+background-color: #696969;
+border-radius: 5px;
+height: 680px;
+font-family: "Ubuntu";
+padding : 10px;
+margin-bottom: 20px;
+margin-left: 200px;
+
+}
+
+#game {
+font-size: 25px;
+}
+
+.install_button {
+background: #F614B2;
+background-image: -webkit-linear-gradient(top, #F614B2, #1313D0);
+background-image: -moz-linear-gradient(top, #F614B2, #1313D0);
+background-image: -ms-linear-gradient(top, #F614B2, #1313D0);
+background-image: -o-linear-gradient(top, #F614B2, #1313D0);
+background-image: linear-gradient(to bottom, #F614B2, #1313D0);
+border-radius: 10px;
+color: #000000;
+font-family: 'Orbitron', sans-serif;
+font-size: 25px;
+font-weight: 50px;
+padding: 25px;
+text-decoration: none;
+cursor: pointer;
+}
